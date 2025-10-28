@@ -1,7 +1,7 @@
 # 👨‍💻 Обо мне
 
-<h1 align="center">👋 Привет, я Анастасия</h1>
-<h3 align="center">🎓 Студент 3 курса | 💻 Java & Python | 🚀 В постоянном развитии</h3>
+<h1 align="center">👋 Привет, я Максим</h1>
+<h3 align="center">🎓 Студент 3 курса | 💻 Golang & Python | 🚀 В постоянном развитии</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Java+%26+Python;Студент+3+курса;Постоянно+учусь+новому" alt="Typing SVG" />
@@ -49,32 +49,15 @@
 
 ## 📚 Что сейчас изучаю
 
-- 🔥 **Java Core** - углубленное изучение
-- 🐍 **Python** - фреймворки и веб-разработка  
+- 🔥 **Kubernetes** - углубленное изучение
+- 🔥 **Docker** - фреймворки и веб-разработка  
 - 📊 **Алгоритмы и структуры данных**
-- 🗄️ **Базы данных** - SQL, PostgreSQL
-- 🌐 **Веб-технологии** - JavaScript, HTML/CSS
+- 🗄️ **Базы данных** - SQL, PostgreSQL, MongoDB
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
 </p>
 
-## 📫 Связь со мной
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Anast.Derevannykh.6@gmail.com)
-[![Yandex Mail](https://img.shields.io/badge/Yandex_Mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)](mailto:anastaci4derevyannih@yandex.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnAsta6)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow Line" width="100%">
-</p>
-
-<div align="center">
-  
-⭐️ *Спасибо за визит на мой профиль!* ⭐️
+а мой профиль!* ⭐️
 
 </div>
