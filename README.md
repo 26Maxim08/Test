@@ -15,11 +15,11 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=AnAsta6&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=26Maxim08&theme=dark&hide_border=false)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26Maxim08&theme=dark&hide_border=false&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnAsta6&theme=dark&hide_border=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=26Maxim08&theme=dark&hide_border=false&show_icons=true)
 
 </div>
 
